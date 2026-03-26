@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "WANNA BE AN ANGEL",
+  "base_artist": "新居昭乃",
+  "createdAt": "2026-03-26T04:23:46.104052Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wanna Be an Angel",
+      "artist": "新居昭乃",
+      "has_synced": false,
+      "path": "select/01_Wanna_Be_an_Angel_新居昭乃.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "WANNA BE AN ANGEL",
+      "artist": "Akino Arai",
+      "has_synced": false,
+      "path": "select/02_WANNA_BE_AN_ANGEL_Akino_Arai.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "WANNA BE AN ANGEL",
+      "artist": "Akino Arai",
+      "has_synced": false,
+      "path": "select/03_WANNA_BE_AN_ANGEL_Akino_Arai.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "WANNA BE AN ANGEL",
+      "artist": "arai akino",
+      "has_synced": false,
+      "path": "select/04_WANNA_BE_AN_ANGEL_arai_akino.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "WANNA BE AN ANGEL",
+      "artist": "新居 昭乃",
+      "has_synced": false,
+      "path": "select/05_WANNA_BE_AN_ANGEL_新居_昭乃.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "WANNA BE AN ANGEL",
+      "artist": "Arai, Akino",
+      "has_synced": false,
+      "path": "select/06_WANNA_BE_AN_ANGEL_Arai,_Akino.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WANNA BE AN ANGEL",
+      "artist": "新居 昭乃",
+      "has_synced": false,
+      "path": "select/pl_01_WANNA_BE_AN_ANGEL_新居_昭乃.txt"
+    }
+  ]
+}
