@@ -1,0 +1,82 @@
+# 新居昭乃 – WANNA BE AN ANGEL
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+アン タク チュトゥ ドフィ レ
+An tagk chsutw dofie le
+エ ジュ サン
+E dju san
+ズゥ ディ オゥガ ソ
+モメンティ クゥ エ
+Zdu zdi ouga
+so Momenty qu e
+エス クジョ ドン
+フレ オル マ
+Es qjio doan
+Fre ol ma
+モンチュ キリ ダ テ ニディア
+コゥデ オナ トオ トオニァ
+Monchu kiri da te nidia
+Kolde ona tow Townya
+ゼン　チュリ
+Zenn churi
+ア セチア イ ヒュット オノ
+ズィ タクトゥン ノ スレイント
+スラインノフ マァ ドァ
+Ah sechia I hyutt ohno
+zwi takktwun no Sleint
+slain-nof mah dowa
+アン タク チュトゥ ドフィ レ
+An tagk chsutw dofie le
+エ ジュ サン
+E dju san
+ズゥ ディ オゥガ
+ソ モメンティ クゥ エ
+Zdu zdi ouga
+so Momenty qu e
+エン クロジェ トゥ ドトゥリィ レ
+En crozie to Dotry le
+アヴュ プラン ギミァ
+パードゥット ディ
+ソティエレクトリィ
+Avu pran Gimya pardwott di
+soty erectoly
+エス クジョ ダン
+ダ ヴォ ペンニァ
+Es qjio dahn Da vo pennia
+タイム オ ピディア フー
+ディスティ コゥデ オナトオ
+トオニァ
+Taim o pidia fu disty
+Kolde ona tow Townya
+コン スィーエ
+Con swie
+ア セチア イ ヒュット オノ ズィ
+タクトゥン ノ スレイント
+スラインノフ マァ ドァ
+Ah sechia I hyutt ohno zwi
+takktwun no Sleint slain-nof
+mah dowa
+アン タク シュト ドフィ レ
+An tagk syut dofie le
+エ ジュ サン
+E dju san
+ズゥ ディ オゥガ ソ
+モドンティ クゥ レ
+Zdu zdi ouga so Modonty qu le
+エン クロジェ トゥ ドトゥリィ レ
+En crozie to Dotry le
+アヴュ プラン ギミァ
+パードゥット ディ ソティ
+エレクトリィ
+Avu pran Gimya pardwott
+di soty erectoly
+アン タク シュト ドフィ レ
+An tagk syut dofie le
+エ ジュ サン
+E dju san
+ズゥ ディ オゥガ ソ
+モドンティ クゥ レ
+Zdu zdi ouga so Modonty qu le...
+```
